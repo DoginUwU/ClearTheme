@@ -1,0 +1,10 @@
+{	
+"name": "ClearTheme",
+"description": "A Simple Theme based on minimalism, with darker colors and less visual pollution",
+"version": "0.0.1",
+"author": "Dogs ♡#0172",
+"license": "MIT",
+"theme": "clearTheme-config.css",
+"consent": "true",
+"preview": ["https://camo.githubusercontent.com/13e40c0f0e608dec0855a750ea411debca263c784019198212305ecd31109fc3/68747470733a2f2f692e696d6775722e636f6d2f7a7a6c767264632e706e67"]
+}
