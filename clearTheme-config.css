@@ -53,17 +53,6 @@
     border-radius: 0;
 }
 
-.container-3w7J-x:before {
-	content: '';
-	position: absolute;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	height: 140px;
-	background: linear-gradient(0deg, var(--background-secondary) 0%, rgba(0,212,255,0) 100%);
-	z-index: 999;
-}
-
 /* message */
 .channelTextArea-3bF57p {
 	padding-top: 40px;
