@@ -112,6 +112,9 @@
 	color: #ffb8d9!important;
 	font-weight: bold;
 }
+[data-is-author-self=false]>.contents-2mQqc9>.header-23xsNx { 
+	background-color: var(--background-secondary);
+}
 .mentioned-xhSam7:before {
 	margin: 0;
     left: -20px;
