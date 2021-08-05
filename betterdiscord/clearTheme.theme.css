@@ -1,0 +1,53 @@
+/**
+ * @name ClearTheme
+ * @author Dogs ♡#0172
+ * @version 0.0.1
+ * @description A Simple Theme based on minimalism, with darker colors and less visual pollution.
+ * @source https://github.com/DoginUwU/ClearTheme
+ * @updateUrl https://github.com/DoginUwU/ClearTheme/betterdiscord/clearTheme.theme.css
+ * @authorId 656129876092518400
+ * @website http://gotardo.vercel.app/
+*/
+
+/*
+   _____ _                   _______ _                         
+  / ____| |                 |__   __| |                        
+ | |    | | ___  __ _ _ __     | |  | |__   ___ _ __ ___   ___ 
+ | |    | |/ _ \/ _` | '__|    | |  | '_ \ / _ \ '_ ` _ \ / _ \
+ | |____| |  __/ (_| | |       | |  | | | |  __/ | | | | |  __/
+  \_____|_|\___|\__,_|_|       |_|  |_| |_|\___|_| |_| |_|\___|
+                                                               
+	
+	Created by: Dogs ♡#0172
+	Version: 0.0.1
+
+	Special thanks:
+		Ethos#0002
+		Davri#0015 
+		Lorem#3481 
+*/
+
+@import url(https://raw.githubusercontent.com/DoginUwU/ClearTheme/main/clearTheme-config.css);
+
+.theme-dark {
+	--background-primary: #15191C;
+	--toast-contents: #15191C;
+	--background-mobile-primary: #15191C;
+	--deprecated-store-bg: #15191C;
+	--background-secondary: #1D2127;
+	--background-secondary-alt: #1D2127;
+	--background-tertiary: #15191C;
+	--channeltextarea-background: #1D2127;
+	--background-mentioned: rgba(0, 0, 0, 0);
+	--background-mentioned-hover: rgba(0, 0, 0, 0);
+	--info-warning-foreground: #3867FD;
+	--brand-experiment: #68A4E4;
+	--brand-experiment-560: #3664FD;
+	--brand-experiment-600: #2A4AFE;
+	--spotify-color: #68A4E4;
+	--text-positive: #68A4E4;
+}
+
+.peopleColumn-29fq28 {
+	background: var(--background-primary);
+}
