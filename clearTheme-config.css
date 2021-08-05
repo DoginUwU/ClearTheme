@@ -112,9 +112,6 @@
 	color: #ffb8d9!important;
 	font-weight: bold;
 }
-.markup-2BOw-j a {
-	color: var(--brand-experiment-560)!important;
-}
 .mentioned-xhSam7:before {
 	margin: 0;
     left: -20px;
@@ -250,6 +247,17 @@
 /* Discover */
 .pageWrapper-1PgVDX {
 	background-color: var(--background-secondary)!important;
+}
+
+/* Spotify Powercord */
+.markup-2BOw-j a,
+.powercord-spotify .spotify-buttons .fas,
+.powercord-spotify .spotify-extra-controls .active:before {
+	color: var(--brand-experiment)!important;
+}
+.spotify-seek-bar-progress,
+.tooltipGreen-WdeQwd {
+	background: var(--brand-experiment)!important;
 }
 
 /* Message Profile */
