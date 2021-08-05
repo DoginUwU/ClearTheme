@@ -112,6 +112,9 @@
 	color: #ffb8d9!important;
 	font-weight: bold;
 }
+[data-is-author-self=true]>.contents-2mQqc9 code{
+	background: transparent;
+}
 [data-is-author-self=false]>.contents-2mQqc9>.header-23xsNx { 
 	background-color: var(--background-secondary);
 }
@@ -262,6 +265,9 @@
 .tooltipGreen-WdeQwd {
 	background: var(--brand-experiment)!important;
 }
+.spotifyIcon-2J9kSv path{
+	fill: var(--brand-experiment)!important;
+}
 
 /* Message Profile */
 .avatarPositionNormal-aZjAsn,
@@ -361,6 +367,26 @@
 	color: var(--brand-experiment-560)!important;
 }
 
+/* Call */
+.status-1WEaea {
+	background-color: var(--brand-experiment)!important;
+}
+
+/* AutoComplete */
+.autocomplete-1vrmpx {
+	background-color: var(--background-secondary)!important;
+}
+.selected-1Tbx07 {
+	background-color: var(--background-primary)!important;
+}
+.container-3ayLPN {
+	background-color: var(--background-secondary)!important;
+}
+
+.container-3ayLPN .option-96V44q:after {
+	display: none;
+}
+
 /* Settings */
 .separator-gCa7yv {
 	background-color: transparent;
@@ -389,10 +415,12 @@
     left: auto;
     right: 12px;
     border-radius: 0.7rem 0 0 0.7rem;
+	z-index: 99;
 }
 .jumpToPresentBar-G1R9s6 {
     width: 45%;
     right: auto;
     left: 12px;
     border-radius:0 0.7rem 0.7rem 0;
+	z-index: 99;
 }
