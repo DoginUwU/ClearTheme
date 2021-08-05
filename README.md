@@ -5,12 +5,17 @@ ClearTheme | A Simple Theme based on minimalism, with darker colors and less vis
 
 ## How To Install ClearTheme?
 
-**Powercord** Users:
+**Powercord** Users: **(Recomended)**
 
 1. Open Terminal and Type:
 ```
 cd powercord/src/Powercord/themes && git clone https://github.com/DoginUwU/ClearTheme
 ```
+
+**BetterDiscord** Users:
+
+1. Download theme: [Download](https://raw.githubusercontent.com/DoginUwU/ClearTheme/main/betterdiscord/clearTheme.theme.css)
+2. Paste on Themes folder
 
 # Screenshots
 
